@@ -30,3 +30,6 @@ Commands <)
 # RUN 
 - `cd  HAMII-ERROR`
 - `python3 HAMII-ERROR.py`
+
+# PAID TOOL
+- ` EASYPESA ONLY`
